@@ -1,0 +1,33 @@
+# Lamplit
+
+> Lamplit is a solo indie studio based in Azerbaijan that makes cozy, relaxing VR games. Its first game, The Returns Desk: A Cozy Library, is a cozy tidy-up game for VR: you are the librarian of a Victorian rotunda library and you sort, organize and shelve 864 books by hand. Each cover tells you its wing, its row and its slot. Finished rows reopen the building wing by wing, bringing back the lanterns, the weather and the hours of the day. No timers, no score, no fail state. It releases November 2, 2026 on Steam (Windows PC VR) and Meta Quest at $12.99 USD.
+
+Key facts about The Returns Desk: A Cozy Library:
+
+- Category: cozy tidy-up game; relaxing organizing and sorting game; indie VR game
+- Developer and publisher: Lamplit
+- Release date: November 2, 2026, on both stores at the same time
+- Platforms: Steam (Windows PC VR) and Meta Quest
+- Price: $12.99 USD
+- Play: single player, seated or standing, tracked motion controllers (no hand tracking), VR only
+- Languages: English text, no voice acting
+- Press and support contact: lamplit.games@proton.me
+
+## Pages
+
+- [Home](https://lamplitgames.github.io/): the game, its trailer, what you do in it, comfort settings, and the press kit
+- [Press kit](https://lamplitgames.github.io/#press): facts, short description, seven screenshots, logo, key art and trailer downloads
+- [Support](https://lamplitgames.github.io/support.html): how to get help with the game
+- [Privacy policy](https://lamplitgames.github.io/privacy.html): what data the game uses on Meta Quest and Steam, and how to have it deleted
+
+## Stores
+
+- [Steam](https://store.steampowered.com/app/5262310/)
+- [Meta Quest](https://www.meta.com/experiences/the-returns-desk-a-cozy-library/1379798675209243/)
+
+## Press assets
+
+- [Trailer, MP4 1080p](https://lamplitgames.github.io/presskit/the-returns-desk-trailer.mp4)
+- [Key art, 2560 px](https://lamplitgames.github.io/presskit/keyart-2560.jpg)
+- [Logo, PNG](https://lamplitgames.github.io/presskit/the-returns-desk-logo.png)
+- Everything in the press kit may be used in coverage of the game.
