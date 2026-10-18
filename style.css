@@ -77,7 +77,6 @@ dd { margin: 0; }
 .two-col { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 40px; }
 .two-col h3 { margin-top: 0; }
 .two-col ul { margin-bottom: 0; }
-.credit { font-size: 0.85rem; margin-top: 6px; }
 .shots { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; margin-top: 8px; }
 .shots a:first-child { grid-column: 1 / -1; }
 .shots a { display: block; border-radius: 8px; overflow: hidden; border: 1px solid var(--line); transition: transform 0.15s ease, border-color 0.15s ease; }
